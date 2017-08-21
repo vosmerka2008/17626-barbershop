@@ -1,0 +1,35 @@
+h3 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: #f7f4f1;
+  font-weight: bold;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: #000000;
+  font-weight: bold;
+  line-height: 42px;
+}
+
+.features p {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: #f7f4f1;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.news p, .contacts p, .appointment p {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: #000000;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+main {
+  background-image: url("img/background.png");
+}
